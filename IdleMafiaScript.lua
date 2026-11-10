@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://script.pufus.win/8a5xf1ws"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yuda1na/Idlemg/refs/heads/main/img"))()
